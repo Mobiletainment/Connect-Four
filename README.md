@@ -5,6 +5,9 @@ With alpha-beta pruning search algorithm. Built with C++ and ClanLib
 What is it?
 ------------
 It's a simple implementation of the board game [Connect Four](http://en.wikipedia.org/wiki/Connect_Four).
+Use the keys 1-7 to throw a coin into the according column.
+
+![Screenshot](/docs/Screenshot.jpg?raw=true)
 
 Requirements
 ------------
