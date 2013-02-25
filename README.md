@@ -5,7 +5,12 @@ With alpha-beta pruning search algorithm. Built with C++ and ClanLib
 What is it?
 ------------
 It's a simple implementation of the board game [Connect Four](http://en.wikipedia.org/wiki/Connect_Four).
-Use the keys 1-7 to throw a coin into the according column.
+
+You can compete against the computer's artificial intelligence, which uses an adversarial search algorithm (with alpha-beta pruning) to evaluate its best move.
+
+How to play?
+------------
+* Use the keys 1-7 to throw a coin into the according column.
 
 ![Screenshot](/docs/Screenshot.jpg?raw=true)
 
@@ -29,10 +34,16 @@ How to compile
 9. Close the Property Pages Window and repeat steps 4-9 but with "Microsoft.CPP.Win32.user" under "Release | Win32"
 10. Hit Build :)
 
+Where to get help?
+------------
+* Check the docs directory for documentation
+* Have a look at the [project's website](http://www.pertiller.net/public-projects/)
+* Contact the author at david@pertiller.net
+
 License
 ------------
 (The MIT License)
-Copyright (c) 2012 David Pertiller <david@pertiller.me>
+Copyright (c) 2012 David Pertiller <david@pertiller.net>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
